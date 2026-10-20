@@ -1,0 +1,22 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configuración local de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno y configuración privada
+.env
+.env.*
+!.env.example
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.temp
+*.bak
